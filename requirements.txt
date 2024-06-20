@@ -1,0 +1,16 @@
+# Core libraries
+beautifulsoup4
+cssselect
+lxml
+pandas
+pdfplumber>=0.11.1
+requests
+
+# Development
+nbexec
+black
+flake8
+isort
+jupyter
+jupyterlab
+RISE
